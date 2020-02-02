@@ -12,4 +12,9 @@ their needs.
 
 Mode Graphical in Sfml (./MyGKrellm -g) :
 
+![alt text](https://github.com/Eydou/CppPool_Rush3/blob/master/asset/sfml.png)
+
+
 Mode Textual in Ncurse (./MyGKrellm) :
+
+![alt text](https://github.com/Eydou/CppPool_Rush3/blob/master/asset/ncurse.png)
