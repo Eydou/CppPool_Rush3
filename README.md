@@ -2,7 +2,7 @@
 
 Rush3 Piscine Cpp Epitech 2019
 
-Project with <a href="https://github.com/Manub123">Emmanuel Blineau</a> and <a href="https://github.com/nielshoez">Niels Hoez/a> 
+Project with <a href="https://github.com/Manub123">Emmanuel Blineau</a> and <a href="https://github.com/nielshoez">Niels Hoez</a> 
 
 
 This rush consists in three core steps.
