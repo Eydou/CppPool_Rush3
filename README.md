@@ -1,4 +1,4 @@
-# CppPool_Rush3
+# CppPool_Rush3 Epitech 2019
 
 Rush3 Piscine Cpp Epitech 2019
 
